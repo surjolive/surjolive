@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d03f9ae6-0c01-43ab-9eac-a1c9fc323677" alt="SURJO LIVE Banner" width="100%"/>
+  <img src="assets/banner.png" alt="SURJO LIVE Banner" width="100%"/>
 </div>
 
 <p align="center">
