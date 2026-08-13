@@ -1,32 +1,33 @@
 <div align="center">
-  <img src="assets/profile-header.svg" alt="SURJO LIVE - Cloud Engineer | DevOps Expert" width="100%"/>
+  <img src="assets/surjo-logo.svg" alt="SURJO LIVE Logo" width="150" height="150"/>
 </div>
 
 <div align="center">
-  <img src="assets/social-badges.svg" alt="Follow SURJO LIVE on social platforms" width="100%" style="margin-top: 20px;"/>
+  <img src="assets/stylish-header.svg" alt="SURJO LIVE - Cloud Engineer | DevOps Expert" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="assets/modern-socials.svg" alt="Follow SURJO LIVE on social platforms" width="100%" style="margin: 30px 0;"/>
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SURJO99exe&label=Profile%20views&color=0e75b6&style=flat" alt="SURJO99exe" />
 </p>
 
-# 💫 Hi 👋, I'm SURJO99exe
-**A passionate Cloud Engineer || DevOps Engineer || AWS Community Builder || Kafka Admin from India**
+# 💫 Welcome to SURJO LIVE Profile
 
-Email Me 👉 ✉️ **surjolivemailbox@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+> **Cloud Engineer | DevOps Specialist | AWS Community Builder | Kafka Admin | Content Creator**
 
-## 🔗 I am a Content Creator. 😊😊
+✉️ **Email:** surjolivemailbox@gmail.com  
+🎯 **Looking for:** Collaboration, Projects, Technical Support, Community Growth  
+🌍 **Based in:** India  
+📱 **Connect with me on all platforms below** 👇
 
-Stay updated with the latest tutorials, projects, and community content by subscribing to my YouTube channel and following me on social media.
+---
 
-[![SURJO99exe YouTube](https://img.shields.io/badge/YouTube-issurjolive-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@issurjolive?sub_confirmation=1)
-[![SURJO99exe Facebook](https://img.shields.io/badge/Facebook-surjoislive-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/surjoislive)
-[![SURJO99exe Instagram](https://img.shields.io/badge/Instagram-surjoislive_-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/surjoislive_)
-[![SURJO99exe TikTok](https://img.shields.io/badge/TikTok-surjoislive-000000?logo=tiktok&logoColor=white)](https://vm.tiktok.com/ZS92d73AS3Gek-rtguQ/)
-[![SURJO99exe Discord](https://img.shields.io/badge/Discord-Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/Et777hb6aU)
-[![SURJO99exe Telegram](https://img.shields.io/badge/Telegram-surjoislive-26A5E4?logo=telegram&logoColor=white)](https://t.me/surjoislive)
-[![SURJO99exe WhatsApp](https://img.shields.io/badge/WhatsApp-Community-25D366?logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L4cx8Y5jHeM9mOY574dQ0B)
-[![SURJO99exe GitHub](https://img.shields.io/badge/GitHub-SURJO99exe-181717?logo=github&logoColor=white)](https://github.com/SURJO99exe)
+## 🚀 About Me
+
+I'm a passionate Cloud and DevOps engineer dedicated to building scalable infrastructure, sharing knowledge through content creation, and fostering a vibrant tech community. With expertise in AWS, Kafka, Linux, and modern DevOps practices, I help organizations and individuals master cloud technologies.
 
 ## 🚀 Profile Highlights
 

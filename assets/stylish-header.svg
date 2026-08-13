@@ -1,0 +1,74 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="headerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0e27;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1a1f3a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0a0e27;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="surjoGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0099FF;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#00CCFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0099FF;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="liveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF1493;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#FF69B4;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF1493;stop-opacity:1" />
+    </linearGradient>
+    <filter id="neon">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#headerBg)"/>
+  
+  <!-- Top accent line -->
+  <line x1="0" y1="10" x2="1200" y2="10" stroke="url(#surjoGradient)" stroke-width="2" opacity="0.6"/>
+  
+  <!-- Decorative circles left -->
+  <circle cx="80" cy="80" r="45" fill="#0099FF" opacity="0.1"/>
+  <circle cx="100" cy="100" r="30" fill="#00CCFF" opacity="0.15"/>
+  
+  <!-- Decorative circles right -->
+  <circle cx="1120" cy="250" r="50" fill="#FF1493" opacity="0.1"/>
+  <circle cx="1100" cy="200" r="35" fill="#FF69B4" opacity="0.12"/>
+  
+  <!-- Logo placeholder circle -->
+  <circle cx="100" cy="150" r="50" fill="none" stroke="url(#surjoGradient)" stroke-width="2" opacity="0.8"/>
+  <text x="100" y="160" font-size="36" font-weight="bold" fill="url(#surjoGradient)" font-family="Arial, sans-serif" text-anchor="middle" filter="url(#neon)">S</text>
+  
+  <!-- Main Title: SURJO -->
+  <text x="250" y="90" font-size="80" font-weight="900" fill="url(#surjoGradient)" font-family="Arial, sans-serif" letter-spacing="6" filter="url(#neon)">
+    SURJO
+  </text>
+  
+  <!-- Main Title: LIVE -->
+  <text x="250" y="160" font-size="80" font-weight="900" fill="url(#liveGradient)" font-family="Arial, sans-serif" letter-spacing="6" filter="url(#neon)">
+    LIVE
+  </text>
+  
+  <!-- Tagline -->
+  <text x="250" y="210" font-size="22" fill="#FFFFFF" font-family="Arial, sans-serif" letter-spacing="2" opacity="0.85">
+    Cloud Engineer • DevOps Expert • Community Builder
+  </text>
+  
+  <!-- Status badge -->
+  <g>
+    <rect x="250" y="230" width="280" height="40" rx="20" fill="none" stroke="url(#surjoGradient)" stroke-width="2" opacity="0.7"/>
+    <circle cx="265" cy="250" r="5" fill="#00FF00" filter="url(#neon)"/>
+    <text x="285" y="255" font-size="16" fill="#FFFFFF" font-family="Arial, sans-serif" font-weight="bold">
+      🔴 LIVE ON YOUTUBE • TWITCH • STREAMS
+    </text>
+  </g>
+  
+  <!-- Bottom accent line -->
+  <line x1="0" y1="290" x2="1200" y2="290" stroke="url(#liveGradient)" stroke-width="2" opacity="0.6"/>
+</svg>
