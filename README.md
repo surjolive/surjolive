@@ -6,48 +6,92 @@
   <img src="https://komarev.com/ghpvc/?username=SURJO99exe&label=Profile%20views&color=0e75b6&style=flat" alt="SURJO99exe" />
 </p>
 
-# 💫 Welcome to SURJO LIVE Profile
+# 🎮 SURJO LIVE - GAMER PROFILE
 
-> **Cloud Engineer | DevOps Specialist | AWS Community Builder | Kafka Admin | Content Creator**
+```
+╔════════════════════════════════════════╗
+║  🎯 PLAYER STATUS: ACTIVE & STREAMING  ║
+║  📊 LEVEL: PRO GAMER + DEV             ║
+║  🏆 ACHIEVEMENTS UNLOCKED               ║
+╚════════════════════════════════════════╝
+```
 
-✉️ **Email:** surjolivemailbox@gmail.com  
-🎯 **Looking for:** Collaboration, Projects, Technical Support, Community Growth  
-🌍 **Based in:** India  
-📱 **Connect with me on all platforms below** 👇
+> **Pro Gamer | Content Creator | Streamer | Community Builder | Tech Enthusiast**
+
+🎮 **Gaming Setup Ready**  
+🎥 **Streaming Live:** YouTube • TikTok • Discord • Twitch  
+💬 **Contact:** surjolivemailbox@gmail.com  
+🌍 **Base:** India  
+🚨 **Status:** 🔴 LIVE ON ALL PLATFORMS  
 
 ---
 
-## 🚀 About Me
+## 👾 ABOUT THE PLAYER
 
-I'm a passionate Cloud and DevOps engineer dedicated to building scalable infrastructure, sharing knowledge through content creation, and fostering a vibrant tech community. With expertise in AWS, Kafka, Linux, and modern DevOps practices, I help organizations and individuals master cloud technologies.
+Welcome to SURJO LIVE! I'm a **pro gamer & content creator** dedicated to streaming epic gaming sessions, creating awesome tutorials, and building a thriving gaming community. Whether it's competitive gameplay, tech gaming content, or just vibing with the community—I'm here to level up your gaming experience! 
 
-## 🚀 Profile Highlights
+⚡ **Catch me streaming live across all platforms - YouTube, TikTok, Discord, and more!**
 
-- ✅ Cloud Infrastructure Specialist
-- ✅ DevOps & Automation Expert
-- ✅ AWS Community Builder
-- ✅ Kafka & Messaging Systems
-- ✅ Linux & Server Administration
-- ✅ CI/CD & Deployment Automation
-- ✅ Monitoring & Logging
-- ✅ Security Awareness & Best Practices
-- ✅ Infrastructure as Code
-- ✅ System Reliability & Performance
-- ✅ Technical Collaboration & Support
-- ✅ Content Creation & Community Growth
-- ✅ Digital Branding & Social Engagement
-- ✅ Problem Solving & Troubleshooting
-- ✅ Training & Tech Education
+## 🎯 PLAYER ACHIEVEMENTS & SKILLS
 
-## 💸 Support My Work 🤝
+### 🏅 Gaming Achievements
+- 🥇 Pro Gamer with 1000+ Stream Hours
+- 🎬 Content Creator & Streamer
+- 👥 Community Manager & Builder
+- 🔥 Viral Gaming Content Creator
+- 💯 500K+ Followers Across Platforms
+- ⭐ Trending Creator Badge
+- 🎖️ Community Verified Account
+- 🏆 Gaming Champion
+- 📡 Multi-Platform Broadcaster
+- 💎 Premium Member Status
+- 🎪 Event Organizer & Host
+- 🌟 Influencer Level: PRO
+- 📱 Tech Gaming Expert
+- 🎮 Speedrunner & Challenger
+- 🔔 Notification Bell Enabled
 
-If you’ve found my tutorials, content, or projects helpful, you can support me here:
+### ⚙️ GAMING RIG & SETUP
+- 🖥️ High-End Gaming PC
+- 🎧 Pro Streaming Equipment
+- 📹 4K Streaming Capability
+- 🎙️ Studio-Grade Microphone
+- ⚡ Low-Latency Connection
+- 🖱️ Pro Gaming Peripherals
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors)
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/)
+## 📊 STREAMING SCHEDULE & INFO
 
-## 🏆 GitHub Trophies
+| Day | Status | Platforms |
+|-----|--------|-----------|
+| Monday - Friday | 🔴 LIVE | YouTube • TikTok • Discord |
+| Saturday | 🔴 LIVE EVENTS | All Platforms |
+| Sunday | 🟡 Community Time | Discord Community |
+
+## 🎁 SUPPORT THE STREAM
+
+Love the content? Support SURJO LIVE and get exclusive perks! 💰
+
+[![Buy Me a Coffee](https://img.shields.io/badge/💰%20Buy%20Me-Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
+[![GitHub Sponsors](https://img.shields.io/badge/⭐%20Become%20a-Sponsor-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors)
+[![Donate via PayPal](https://img.shields.io/badge/💳%20Support-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/)
+
+## � GAMING PLATFORMS & COMMUNITIES
+
+### 🔴 WHERE TO WATCH & FOLLOW
+
+**YouTube** 📺 - [issurjolive](https://www.youtube.com/@issurjolive?sub_confirmation=1)  
+**Instagram** 📸 - [surjoislive_](https://www.instagram.com/surjoislive_)  
+**TikTok** 🎵 - [surjoislive](https://vm.tiktok.com/ZS92d73AS3Gek-rtguQ/)  
+**Facebook** 👍 - [surjoislive](https://www.facebook.com/surjoislive)  
+**Discord** 💬 - [Join Community](https://discord.gg/Et777hb6aU)  
+**Telegram** ✈️ - [surjoislive](https://t.me/surjoislive)  
+**WhatsApp** 📱 - [Community Group](https://chat.whatsapp.com/L4cx8Y5jHeM9mOY574dQ0B)  
+
+> **🔔 CLICK SUBSCRIBE & HIT THE BELL NOTIFICATION FOR LIVE STREAM ALERTS!**
+
+---
+
+## 🏆 GAMING STATS & ACHIEVEMENTS
 
 ![](https://github-profile-trophy.vercel.app/?username=SURJO99exe&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
