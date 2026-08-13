@@ -1,13 +1,28 @@
 # Hi 👋, I'm SURJO99exe
 
-A passionate Cloud Engineer | DevOps Engineer | Kafka Admin from India.
+A passionate Cloud Engineer | DevOps Engineer | Kafka Admin | Content Creator from India.
 
-- 🔭 I’m currently working on cloud and DevOps automation projects
-- 🌱 I’m currently learning modern infrastructure, CI/CD, and observability
-- 👯 I’m looking to collaborate on DevOps and cloud-related projects
-- 💬 Ask me about Cloud, Linux, Kafka, CI/CD, and automation
-- 📫 Reach me: alamimran613@live.com
-- ⚡ Fun fact: I love building scalable infrastructure and learning new tech
+- 🔭 I’m currently working on cloud, DevOps, and automation projects
+- 🌱 I’m currently learning modern infrastructure, CI/CD, observability, and security
+- 👯 I’m looking to collaborate on DevOps, cloud, Kafka, and community-driven projects
+- 💬 Ask me about Cloud, Linux, Kafka, CI/CD, automation, and technical support
+- 📫 Reach me: surjolivemailbox@gmail.com
+- ⚡ Fun fact: I love building reliable systems, growing communities, and learning new technology every day
+
+## 🚀 Profile Highlights
+
+- ✅ Cloud Infrastructure Specialist
+- ✅ DevOps & Automation Expert
+- ✅ Kafka & Messaging System Support
+- ✅ Linux & Server Administration
+- ✅ CI/CD Pipeline Setup
+- ✅ Monitoring & Logging
+- ✅ System Reliability & Performance
+- ✅ Content Creation & Community Growth
+- ✅ Technical Collaboration & Support
+- ✅ Digital Branding & Social Engagement
+- ✅ Security Awareness & Best Practices
+- ✅ Business & Project Support
 
 ## 🌐 Socials
 
@@ -20,6 +35,63 @@ A passionate Cloud Engineer | DevOps Engineer | Kafka Admin from India.
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/Et777hb6aU)
 [![Telegram](https://img.shields.io/badge/Telegram-surjoislive-26A5E4?logo=telegram&logoColor=white)](https://t.me/surjoislive)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Community-25D366?logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L4cx8Y5jHeM9mOY574dQ0B)
+
+## 🧩 Core Features & Functions
+
+- 🔧 Cloud Deployment
+- 🖥️ Linux Administration
+- ☁️ AWS & Azure Support
+- 🐳 Docker & Containerization
+- ☸️ Kubernetes Basics
+- 🧪 CI/CD Pipelines
+- 📦 Artifact & Release Management
+- 📡 Kafka & Streaming Systems
+- 📊 Monitoring & Observability
+- 🛡️ Security Hardening
+- 🧠 Automation & Scripting
+- 🚀 Performance Tuning
+- 🧰 Infrastructure as Code
+- 🧾 Troubleshooting & Debugging
+- 🗂️ DevOps Workflow Optimization
+- 👥 Community Building
+- 🎥 Content Creation
+- 📣 Social Promotion
+- 🤝 Collaboration & Support
+- 💡 Tech Education
+- 🧮 Architecture Planning
+- 📡 System Integration
+- 🧬 Workflow Automation
+- 📁 Project Setup & Management
+- 🧯 Incident Response
+- ⚙️ Server Configuration
+- 💻 Backend Support
+- 🧨 Product Launch Support
+- 📈 Growth Strategy
+- 🌍 Global Reach
+- 🧳 Remote Team Support
+
+## 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ## 📊 GitHub Stats
 
