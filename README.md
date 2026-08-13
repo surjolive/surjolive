@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="assets/banner.png" alt="SURJO LIVE Banner" width="100%"/>
+  <img src="assets/profile-header.svg" alt="SURJO LIVE - Cloud Engineer | DevOps Expert" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="assets/social-badges.svg" alt="Follow SURJO LIVE on social platforms" width="100%" style="margin-top: 20px;"/>
 </div>
 
 <p align="center">
