@@ -1,101 +1,101 @@
-<div align="center">
+﻿<div align="center">
   <img src="assets/surjolive.png" alt="SURJO LIVE - Follow Us!" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SURJO99exe&label=Profile%20views&color=0e75b6&style=flat" alt="SURJO99exe" />
+  <img src="https://komarev.com/ghpvc/?username=surjolive&label=Profile%20views&color=0e75b6&style=flat" alt="surjolive" />
 </p>
 
-# 🎮 SURJO LIVE - GAMER PROFILE
+# ðŸŽ® SURJO LIVE - GAMER PROFILE
 
 ```
-╔════════════════════════════════════════╗
-║  🎯 PLAYER STATUS: ACTIVE & STREAMING  ║
-║  📊 LEVEL: PRO GAMER + DEV             ║
-║  🏆 ACHIEVEMENTS UNLOCKED               ║
-╚════════════════════════════════════════╝
+â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
+â•‘  ðŸŽ¯ PLAYER STATUS: ACTIVE & STREAMING  â•‘
+â•‘  ðŸ“Š LEVEL: PRO GAMER + DEV             â•‘
+â•‘  ðŸ† ACHIEVEMENTS UNLOCKED               â•‘
+â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
 ```
 
 > **Pro Gamer | Content Creator | Streamer | Community Builder | Tech Enthusiast**
 
-🎮 **Gaming Setup Ready**  
-🎥 **Streaming Live:** YouTube • TikTok • Discord • Twitch  
-💬 **Contact:** surjolivemailbox@gmail.com  
-🌍 **Base:** India  
-🚨 **Status:** 🔴 LIVE ON ALL PLATFORMS  
+ðŸŽ® **Gaming Setup Ready**  
+ðŸŽ¥ **Streaming Live:** YouTube â€¢ TikTok â€¢ Discord â€¢ Twitch  
+ðŸ’¬ **Contact:** surjolivemailbox@gmail.com  
+ðŸŒ **Base:** India  
+ðŸš¨ **Status:** ðŸ”´ LIVE ON ALL PLATFORMS  
 
 ---
 
-## 👾 ABOUT THE PLAYER
+## ðŸ‘¾ ABOUT THE PLAYER
 
-Welcome to SURJO LIVE! I'm a **pro gamer & content creator** dedicated to streaming epic gaming sessions, creating awesome tutorials, and building a thriving gaming community. Whether it's competitive gameplay, tech gaming content, or just vibing with the community—I'm here to level up your gaming experience! 
+Welcome to SURJO LIVE! I'm a **pro gamer & content creator** dedicated to streaming epic gaming sessions, creating awesome tutorials, and building a thriving gaming community. Whether it's competitive gameplay, tech gaming content, or just vibing with the communityâ€”I'm here to level up your gaming experience! 
 
-⚡ **Catch me streaming live across all platforms - YouTube, TikTok, Discord, and more!**
+âš¡ **Catch me streaming live across all platforms - YouTube, TikTok, Discord, and more!**
 
-## 🎯 PLAYER ACHIEVEMENTS & SKILLS
+## ðŸŽ¯ PLAYER ACHIEVEMENTS & SKILLS
 
-### 🏅 Gaming Achievements
-- 🥇 Pro Gamer with 1000+ Stream Hours
-- 🎬 Content Creator & Streamer
-- 👥 Community Manager & Builder
-- 🔥 Viral Gaming Content Creator
-- 💯 500K+ Followers Across Platforms
-- ⭐ Trending Creator Badge
-- 🎖️ Community Verified Account
-- 🏆 Gaming Champion
-- 📡 Multi-Platform Broadcaster
-- 💎 Premium Member Status
-- 🎪 Event Organizer & Host
-- 🌟 Influencer Level: PRO
-- 📱 Tech Gaming Expert
-- 🎮 Speedrunner & Challenger
-- 🔔 Notification Bell Enabled
+### ðŸ… Gaming Achievements
+- ðŸ¥‡ Pro Gamer with 1000+ Stream Hours
+- ðŸŽ¬ Content Creator & Streamer
+- ðŸ‘¥ Community Manager & Builder
+- ðŸ”¥ Viral Gaming Content Creator
+- ðŸ’¯ 500K+ Followers Across Platforms
+- â­ Trending Creator Badge
+- ðŸŽ–ï¸ Community Verified Account
+- ðŸ† Gaming Champion
+- ðŸ“¡ Multi-Platform Broadcaster
+- ðŸ’Ž Premium Member Status
+- ðŸŽª Event Organizer & Host
+- ðŸŒŸ Influencer Level: PRO
+- ðŸ“± Tech Gaming Expert
+- ðŸŽ® Speedrunner & Challenger
+- ðŸ”” Notification Bell Enabled
 
-### ⚙️ GAMING RIG & SETUP
-- 🖥️ High-End Gaming PC
-- 🎧 Pro Streaming Equipment
-- 📹 4K Streaming Capability
-- 🎙️ Studio-Grade Microphone
-- ⚡ Low-Latency Connection
-- 🖱️ Pro Gaming Peripherals
+### âš™ï¸ GAMING RIG & SETUP
+- ðŸ–¥ï¸ High-End Gaming PC
+- ðŸŽ§ Pro Streaming Equipment
+- ðŸ“¹ 4K Streaming Capability
+- ðŸŽ™ï¸ Studio-Grade Microphone
+- âš¡ Low-Latency Connection
+- ðŸ–±ï¸ Pro Gaming Peripherals
 
-## 📊 STREAMING SCHEDULE & INFO
+## ðŸ“Š STREAMING SCHEDULE & INFO
 
 | Day | Status | Platforms |
 |-----|--------|-----------|
-| Monday - Friday | 🔴 LIVE | YouTube • TikTok • Discord |
-| Saturday | 🔴 LIVE EVENTS | All Platforms |
-| Sunday | 🟡 Community Time | Discord Community |
+| Monday - Friday | ðŸ”´ LIVE | YouTube â€¢ TikTok â€¢ Discord |
+| Saturday | ðŸ”´ LIVE EVENTS | All Platforms |
+| Sunday | ðŸŸ¡ Community Time | Discord Community |
 
-## 🎁 SUPPORT THE STREAM
+## ðŸŽ SUPPORT THE STREAM
 
-Love the content? Support SURJO LIVE and get exclusive perks! 💰
+Love the content? Support SURJO LIVE and get exclusive perks! ðŸ’°
 
-[![Buy Me a Coffee](https://img.shields.io/badge/💰%20Buy%20Me-Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
-[![GitHub Sponsors](https://img.shields.io/badge/⭐%20Become%20a-Sponsor-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors)
-[![Donate via PayPal](https://img.shields.io/badge/💳%20Support-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/)
+[![Buy Me a Coffee](https://img.shields.io/badge/ðŸ’°%20Buy%20Me-Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
+[![GitHub Sponsors](https://img.shields.io/badge/â­%20Become%20a-Sponsor-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors)
+[![Donate via PayPal](https://img.shields.io/badge/ðŸ’³%20Support-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/)
 
-## � GAMING PLATFORMS & COMMUNITIES
+## ï¿½ GAMING PLATFORMS & COMMUNITIES
 
-### 🔴 WHERE TO WATCH & FOLLOW
+### ðŸ”´ WHERE TO WATCH & FOLLOW
 
-**YouTube** 📺 - [issurjolive](https://www.youtube.com/@issurjolive?sub_confirmation=1)  
-**Instagram** 📸 - [surjoislive_](https://www.instagram.com/surjoislive_)  
-**TikTok** 🎵 - [surjoislive](https://vm.tiktok.com/ZS92d73AS3Gek-rtguQ/)  
-**Facebook** 👍 - [surjoislive](https://www.facebook.com/surjoislive)  
-**Discord** 💬 - [Join Community](https://discord.gg/Et777hb6aU)  
-**Telegram** ✈️ - [surjoislive](https://t.me/surjoislive)  
-**WhatsApp** 📱 - [Community Group](https://chat.whatsapp.com/L4cx8Y5jHeM9mOY574dQ0B)  
+**YouTube** ðŸ“º - [issurjolive](https://www.youtube.com/@issurjolive?sub_confirmation=1)  
+**Instagram** ðŸ“¸ - [surjoislive_](https://www.instagram.com/surjoislive_)  
+**TikTok** ðŸŽµ - [surjoislive](https://vm.tiktok.com/ZS92d73AS3Gek-rtguQ/)  
+**Facebook** ðŸ‘ - [surjoislive](https://www.facebook.com/surjoislive)  
+**Discord** ðŸ’¬ - [Join Community](https://discord.gg/Et777hb6aU)  
+**Telegram** âœˆï¸ - [surjoislive](https://t.me/surjoislive)  
+**WhatsApp** ðŸ“± - [Community Group](https://chat.whatsapp.com/L4cx8Y5jHeM9mOY574dQ0B)  
 
-> **🔔 CLICK SUBSCRIBE & HIT THE BELL NOTIFICATION FOR LIVE STREAM ALERTS!**
+> **ðŸ”” CLICK SUBSCRIBE & HIT THE BELL NOTIFICATION FOR LIVE STREAM ALERTS!**
 
 ---
 
-## 🏆 GAMING STATS & ACHIEVEMENTS
+## ðŸ† GAMING STATS & ACHIEVEMENTS
 
-![](https://github-profile-trophy.vercel.app/?username=SURJO99exe&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=surjolive&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-# 💻 Tech Stack
+# ðŸ’» Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -127,22 +127,22 @@ Love the content? Support SURJO LIVE and get exclusive perks! 💰
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊 GitHub Stats
+# ðŸ“Š GitHub Stats
 
 <div align="center">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SURJO99exe&theme=radical">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SURJO99exe&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SURJO99exe&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SURJO99exe&theme=radical">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SURJO99exe&theme=radical&utcOffset=8">
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=SURJO99exe&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=SURJO99exe&theme=radical">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surjolive&theme=radical">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=surjolive&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=surjolive&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=surjolive&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=surjolive&theme=radical&utcOffset=8">
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=surjolive&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=surjolive&theme=radical">
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SURJO99exe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SURJO99exe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=SURJO99exe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SURJO99exe&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=surjolive&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=surjolive&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=surjolive&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=surjolive&theme=dark&hide_border=false)
 
 </div><br>
 
@@ -152,19 +152,20 @@ Love the content? Support SURJO LIVE and get exclusive perks! 💰
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🌐 Socials
+## ðŸŒ Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/surjoislive_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@issurjolive?sub_confirmation=1)
 
-### ✍️ Random Dev Quote
+### âœï¸ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### ðŸ” Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=SURJO99exe&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=surjolive&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
