@@ -1,13 +1,5 @@
 <div align="center">
-  <img src="assets/surjo-avatar.svg" alt="SURJO LIVE Avatar" width="200" height="280"/>
-</div>
-
-<div align="center">
-  <img src="assets/stylish-header.svg" alt="SURJO LIVE - Cloud Engineer | DevOps Expert" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="assets/modern-socials.svg" alt="Follow SURJO LIVE on social platforms" width="100%" style="margin: 30px 0;"/>
+  <img src="assets/surjolive.png" alt="SURJO LIVE - Follow Us!" width="100%"/>
 </div>
 
 <p align="center">
