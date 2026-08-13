@@ -1,6 +1,8 @@
-<img width="1584" height="396" alt="AWS Community Builder" src="https://github.com/user-attachments/assets/d03f9ae6-0c01-43ab-9eac-a1c9fc323677" />
+<div align="center">
+  <img src="assets/banner.png" alt="SURJO LIVE - Follow Us!" width="100%"/>
+</div>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=SURJO99exe&label=Profile%20views&color=0e75b6&style=flat" alt="SURJO99exe" />
 </p>
 
