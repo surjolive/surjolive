@@ -6,96 +6,96 @@
   <img src="https://komarev.com/ghpvc/?username=surjolive&label=Profile%20views&color=0e75b6&style=flat" alt="surjolive" />
 </p>
 
-# ðŸŽ® SURJO LIVE - GAMER PROFILE
+# 🎮 SURJO LIVE - GAMER PROFILE
 
 ```
-â•”â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•—
-â•‘  ðŸŽ¯ PLAYER STATUS: ACTIVE & STREAMING  â•‘
-â•‘  ðŸ“Š LEVEL: PRO GAMER + DEV             â•‘
-â•‘  ðŸ† ACHIEVEMENTS UNLOCKED               â•‘
-â•šâ•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•â•
+╔════════════════════════════════════════╗
+║  🎯 PLAYER STATUS: ACTIVE & STREAMING  ║
+║  📊 LEVEL: PRO GAMER + DEV             ║
+║  🏆 ACHIEVEMENTS UNLOCKED               ║
+╚════════════════════════════════════════╝
 ```
 
 > **Pro Gamer | Content Creator | Streamer | Community Builder | Tech Enthusiast**
 
-ðŸŽ® **Gaming Setup Ready**  
-ðŸŽ¥ **Streaming Live:** YouTube â€¢ TikTok â€¢ Discord â€¢ Twitch  
-ðŸ’¬ **Contact:** surjolivemailbox@gmail.com  
-ðŸŒ **Base:** India  
-ðŸš¨ **Status:** ðŸ”´ LIVE ON ALL PLATFORMS  
+🎮 **Gaming Setup Ready**  
+🎥 **Streaming Live:** YouTube • TikTok • Discord • Twitch  
+💬 **Contact:** surjolivemailbox@gmail.com  
+🌍 **Base:** India  
+🚨 **Status:** 🔴 LIVE ON ALL PLATFORMS  
 
 ---
 
-## ðŸ‘¾ ABOUT THE PLAYER
+## 👾 ABOUT THE PLAYER
 
-Welcome to SURJO LIVE! I'm a **pro gamer & content creator** dedicated to streaming epic gaming sessions, creating awesome tutorials, and building a thriving gaming community. Whether it's competitive gameplay, tech gaming content, or just vibing with the communityâ€”I'm here to level up your gaming experience! 
+Welcome to SURJO LIVE! I'm a **pro gamer & content creator** dedicated to streaming epic gaming sessions, creating awesome tutorials, and building a thriving gaming community. Whether it's competitive gameplay, tech gaming content, or just vibing with the community—I'm here to level up your gaming experience! 
 
-âš¡ **Catch me streaming live across all platforms - YouTube, TikTok, Discord, and more!**
+⚡ **Catch me streaming live across all platforms - YouTube, TikTok, Discord, and more!**
 
-## ðŸŽ¯ PLAYER ACHIEVEMENTS & SKILLS
+## 🎯 PLAYER ACHIEVEMENTS & SKILLS
 
-### ðŸ… Gaming Achievements
-- ðŸ¥‡ Pro Gamer with 1000+ Stream Hours
-- ðŸŽ¬ Content Creator & Streamer
-- ðŸ‘¥ Community Manager & Builder
-- ðŸ”¥ Viral Gaming Content Creator
-- ðŸ’¯ 500K+ Followers Across Platforms
-- â­ Trending Creator Badge
-- ðŸŽ–ï¸ Community Verified Account
-- ðŸ† Gaming Champion
-- ðŸ“¡ Multi-Platform Broadcaster
-- ðŸ’Ž Premium Member Status
-- ðŸŽª Event Organizer & Host
-- ðŸŒŸ Influencer Level: PRO
-- ðŸ“± Tech Gaming Expert
-- ðŸŽ® Speedrunner & Challenger
-- ðŸ”” Notification Bell Enabled
+### 🏅 Gaming Achievements
+- 🥇 Pro Gamer with 1000+ Stream Hours
+- 🎬 Content Creator & Streamer
+- 👥 Community Manager & Builder
+- 🔥 Viral Gaming Content Creator
+- 💯 500K+ Followers Across Platforms
+- ⭐ Trending Creator Badge
+- 🎖️ Community Verified Account
+- 🏆 Gaming Champion
+- 📡 Multi-Platform Broadcaster
+- 💎 Premium Member Status
+- 🎪 Event Organizer & Host
+- 🌟 Influencer Level: PRO
+- 📱 Tech Gaming Expert
+- 🎮 Speedrunner & Challenger
+- 🔔 Notification Bell Enabled
 
-### âš™ï¸ GAMING RIG & SETUP
-- ðŸ–¥ï¸ High-End Gaming PC
-- ðŸŽ§ Pro Streaming Equipment
-- ðŸ“¹ 4K Streaming Capability
-- ðŸŽ™ï¸ Studio-Grade Microphone
-- âš¡ Low-Latency Connection
-- ðŸ–±ï¸ Pro Gaming Peripherals
+### ⚙️ GAMING RIG & SETUP
+- 🖥️ High-End Gaming PC
+- 🎧 Pro Streaming Equipment
+- 📹 4K Streaming Capability
+- 🎙️ Studio-Grade Microphone
+- ⚡ Low-Latency Connection
+- 🖱️ Pro Gaming Peripherals
 
-## ðŸ“Š STREAMING SCHEDULE & INFO
+## 📊 STREAMING SCHEDULE & INFO
 
 | Day | Status | Platforms |
 |-----|--------|-----------|
-| Monday - Friday | ðŸ”´ LIVE | YouTube â€¢ TikTok â€¢ Discord |
-| Saturday | ðŸ”´ LIVE EVENTS | All Platforms |
-| Sunday | ðŸŸ¡ Community Time | Discord Community |
+| Monday - Friday | 🔴 LIVE | YouTube • TikTok • Discord |
+| Saturday | 🔴 LIVE EVENTS | All Platforms |
+| Sunday | 🟡 Community Time | Discord Community |
 
-## ðŸŽ SUPPORT THE STREAM
+## 🎁 SUPPORT THE STREAM
 
-Love the content? Support SURJO LIVE and get exclusive perks! ðŸ’°
+Love the content? Support SURJO LIVE and get exclusive perks! 💰
 
-[![Buy Me a Coffee](https://img.shields.io/badge/ðŸ’°%20Buy%20Me-Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
-[![GitHub Sponsors](https://img.shields.io/badge/â­%20Become%20a-Sponsor-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors)
-[![Donate via PayPal](https://img.shields.io/badge/ðŸ’³%20Support-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/)
+[![Buy Me a Coffee](https://img.shields.io/badge/💰%20Buy%20Me-Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/)
+[![GitHub Sponsors](https://img.shields.io/badge/⭐%20Become%20a-Sponsor-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors)
+[![Donate via PayPal](https://img.shields.io/badge/💳%20Support-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/)
 
-## ï¿½ GAMING PLATFORMS & COMMUNITIES
+## 🎮 GAMING PLATFORMS & COMMUNITIES
 
-### ðŸ”´ WHERE TO WATCH & FOLLOW
+### 🔴 WHERE TO WATCH & FOLLOW
 
-**YouTube** ðŸ“º - [issurjolive](https://www.youtube.com/@issurjolive?sub_confirmation=1)  
-**Instagram** ðŸ“¸ - [surjoislive_](https://www.instagram.com/surjoislive_)  
-**TikTok** ðŸŽµ - [surjoislive](https://vm.tiktok.com/ZS92d73AS3Gek-rtguQ/)  
-**Facebook** ðŸ‘ - [surjoislive](https://www.facebook.com/surjoislive)  
-**Discord** ðŸ’¬ - [Join Community](https://discord.gg/Et777hb6aU)  
-**Telegram** âœˆï¸ - [surjoislive](https://t.me/surjoislive)  
-**WhatsApp** ðŸ“± - [Community Group](https://chat.whatsapp.com/L4cx8Y5jHeM9mOY574dQ0B)  
+**YouTube** 📺 - [issurjolive](https://www.youtube.com/@issurjolive?sub_confirmation=1)  
+**Instagram** 📸 - [surjoislive_](https://www.instagram.com/surjoislive_)  
+**TikTok** 🎵 - [surjoislive](https://vm.tiktok.com/ZS92d73AS3Gek-rtguQ/)  
+**Facebook** 👍 - [surjoislive](https://www.facebook.com/surjoislive)  
+**Discord** 💬 - [Join Community](https://discord.gg/Et777hb6aU)  
+**Telegram** ✈️ - [surjoislive](https://t.me/surjoislive)  
+**WhatsApp** 📱 - [Community Group](https://chat.whatsapp.com/L4cx8Y5jHeM9mOY574dQ0B)  
 
-> **ðŸ”” CLICK SUBSCRIBE & HIT THE BELL NOTIFICATION FOR LIVE STREAM ALERTS!**
+> **🔔 CLICK SUBSCRIBE & HIT THE BELL NOTIFICATION FOR LIVE STREAM ALERTS!**
 
 ---
 
-## ðŸ† GAMING STATS & ACHIEVEMENTS
+## 🏆 GAMING STATS & ACHIEVEMENTS
 
 ![](https://github-profile-trophy.vercel.app/?username=surjolive&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-# ðŸ’» Tech Stack
+# 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -127,7 +127,7 @@ Love the content? Support SURJO LIVE and get exclusive perks! ðŸ’°
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-# ðŸ“Š GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
   <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surjolive&theme=radical">
@@ -140,11 +140,8 @@ Love the content? Support SURJO LIVE and get exclusive perks! ðŸ’°
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=surjolive&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=surjolive&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 ![](https://github-readme-stats.vercel.app/api?username=surjolive&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=surjolive&theme=dark&hide_border=false)
-
-</div><br>
 
 <!-- Snake Game Repo View -->
 
@@ -152,20 +149,19 @@ Love the content? Support SURJO LIVE and get exclusive perks! ðŸ’°
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## ðŸŒ Socials
+## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/surjoislive_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@issurjolive?sub_confirmation=1)
 
-### âœï¸ Random Dev Quote
+### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### ðŸ” Top Contributed Repo
+### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=surjolive&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
