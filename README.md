@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/surjo-logo.svg" alt="SURJO LIVE Logo" width="150" height="150"/>
+  <img src="assets/surjo-avatar.svg" alt="SURJO LIVE Avatar" width="200" height="280"/>
 </div>
 
 <div align="center">
