@@ -13,8 +13,13 @@ A passionate Cloud Engineer | DevOps Engineer | Kafka Admin from India.
 
 [![GitHub](https://img.shields.io/badge/GitHub-SURJO99exe-181717?logo=github&logoColor=white)](https://github.com/SURJO99exe)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Techno%20Snag-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/technosnag)
-[![Instagram](https://img.shields.io/badge/Instagram-Techno%20Snag-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/technosnag)
+[![YouTube](https://img.shields.io/badge/YouTube-issurjolive-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@issurjolive?sub_confirmation=1)
+[![Facebook](https://img.shields.io/badge/Facebook-surjoislive-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/surjoislive)
+[![Instagram](https://img.shields.io/badge/Instagram-surjoislive_-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/surjoislive_)
+[![TikTok](https://img.shields.io/badge/TikTok-surjoislive-000000?logo=tiktok&logoColor=white)](https://vm.tiktok.com/ZS92d73AS3Gek-rtguQ/)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/Et777hb6aU)
+[![Telegram](https://img.shields.io/badge/Telegram-surjoislive-26A5E4?logo=telegram&logoColor=white)](https://t.me/surjoislive)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Community-25D366?logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L4cx8Y5jHeM9mOY574dQ0B)
 
 ## 📊 GitHub Stats
 
