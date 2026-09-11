@@ -6,6 +6,13 @@
   <img src="https://komarev.com/ghpvc/?username=surjolive&label=Profile%20views&color=0e75b6&style=flat" alt="surjolive" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/surjolive"><img src="https://img.shields.io/badge/GitHub-surjolive-181717?style=for-the-badge&logo=github" alt="GitHub profile"></a>
+  <a href="https://github.com/surjolive/LIZARD"><img src="https://img.shields.io/badge/Building-LIZARD-E95420?style=for-the-badge&logo=rust" alt="Building LIZARD"></a>
+  <a href="https://www.youtube.com/@issurjolive"><img src="https://img.shields.io/badge/YouTube-Live%20content-FF0000?style=for-the-badge&logo=youtube" alt="YouTube"></a>
+  <a href="https://discord.gg/Et777hb6aU"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord community"></a>
+</p>
+
 # 🎮 SURJO LIVE - GAMER PROFILE
 
 ```
@@ -31,6 +38,26 @@
 Welcome to SURJO LIVE! I'm a **pro gamer & content creator** dedicated to streaming epic gaming sessions, creating awesome tutorials, and building a thriving gaming community. Whether it's competitive gameplay, tech gaming content, or just vibing with the community—I'm here to level up your gaming experience! 
 
 ⚡ **Catch me streaming live across all platforms - YouTube, TikTok, Discord, and more!**
+
+## 🚀 CURRENT FOCUS
+
+- 🎮 Building entertaining gaming and live-stream experiences
+- 🦎 Developing [LIZARD](https://github.com/surjolive/LIZARD), a native Rust programming language
+- 🧠 Creating [i-have-adhd](https://github.com/ayghri/i-have-adhd), an action-first assistant skill
+- 🛠️ Improving developer tools, CLI workflows, and open-source documentation
+
+## 🌟 FEATURED PROJECTS
+
+| Project | Description | Status |
+| --- | --- | --- |
+| [LIZARD](https://github.com/surjolive/LIZARD) | Native Rust language with a CLI, REPL, formatter, checker, animation, and native builds | 🚧 Active development |
+| [i-have-adhd](https://github.com/ayghri/i-have-adhd) | ADHD-friendly output rules for coding assistants | 🧠 Open source |
+
+## 🔗 QUICK LINKS
+
+[![Latest LIZARD release](https://img.shields.io/github/v/release/surjolive/LIZARD?style=flat-square&label=LIZARD%20release)](https://github.com/surjolive/LIZARD/releases/latest)
+[![LIZARD documentation](https://img.shields.io/badge/LIZARD-Documentation-8A2BE2?style=flat-square)](https://github.com/surjolive/LIZARD/blob/master/docs/LIZARD-GUIDE.md)
+[![Repositories](https://img.shields.io/badge/GitHub-All%20repositories-181717?style=flat-square&logo=github)](https://github.com/surjolive?tab=repositories)
 
 ## 🎯 PLAYER ACHIEVEMENTS & SKILLS
 
