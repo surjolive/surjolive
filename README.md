@@ -46,19 +46,6 @@ Welcome to SURJO LIVE! I'm a **pro gamer & content creator** dedicated to stream
 - 🧠 Creating [i-have-adhd](https://github.com/ayghri/i-have-adhd), an action-first assistant skill
 - 🛠️ Improving developer tools, CLI workflows, and open-source documentation
 
-## 🌟 FEATURED PROJECTS
-
-| Project | Description | Status |
-| --- | --- | --- |
-| [LIZARD](https://github.com/surjolive/LIZARD) | Native Rust language with a CLI, REPL, formatter, checker, animation, and native builds | 🚧 Active development |
-| [i-have-adhd](https://github.com/ayghri/i-have-adhd) | ADHD-friendly output rules for coding assistants | 🧠 Open source |
-
-## 🔗 QUICK LINKS
-
-[![Latest LIZARD release](https://img.shields.io/github/v/release/surjolive/LIZARD?style=flat-square&label=LIZARD%20release)](https://github.com/surjolive/LIZARD/releases/latest)
-[![LIZARD documentation](https://img.shields.io/badge/LIZARD-Documentation-8A2BE2?style=flat-square)](https://github.com/surjolive/LIZARD/blob/master/docs/LIZARD-GUIDE.md)
-[![Repositories](https://img.shields.io/badge/GitHub-All%20repositories-181717?style=flat-square&logo=github)](https://github.com/surjolive?tab=repositories)
-
 ## 🎯 PLAYER ACHIEVEMENTS & SKILLS
 
 ### 🏅 Gaming Achievements
