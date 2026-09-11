@@ -1,9 +1,9 @@
 ﻿<div align="center">
-  <img src="assets/surjolive1.png" alt="SURJO LIVE logo" width="180" />
+  <img src="assets/surjolive1.png" alt="SURJO LIVE main logo" width="220" />
 </div>
 
 <div align="center">
-  <img src="assets/surjolive.png" alt="SURJO LIVE - Follow Us!" width="100%"/>
+  <img src="assets/surjolive.png" alt="SURJO LIVE social media banner" width="100%"/>
 </div>
 
 <p align="center">
