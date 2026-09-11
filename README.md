@@ -21,7 +21,7 @@
 🎮 **Gaming Setup Ready**  
 🎥 **Streaming Live:** YouTube • TikTok • Discord • Twitch  
 💬 **Contact:** surjolivemailbox@gmail.com  
-🌍 **Base:** Bangladesh
+🌍 **Base:** Bangladesh  
 🚨 **Status:** 🔴 LIVE ON ALL PLATFORMS  
 
 ---
